@@ -1,0 +1,30 @@
+html, body,
+h1, h2, h3,
+div, p,
+a, span,
+video {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.f-l { float: left; }
+.f-r { float: right; }
+
+.p-a-5 { padding: 5px; }
+.p-l-140 { padding-left: 140px; }
+
+.m-r-10 { margin-right: 10px; }
+.m-t-15 { margin-top: 15px; }
+.m-b-15 { margin-bottom: 15px; }
+.m-b-30 { margin-bottom: 30px; }
+
+.o-f-h { overflow: hidden; }
+
+.w-100 { width: 100%; }
