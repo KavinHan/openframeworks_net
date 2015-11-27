@@ -5,5 +5,4 @@
 #
 # To enable this hook, rename this file to "post-update".
 
-#exec git update-server-info
-echo "h*************************oook"
+exec echo "h*************************oook"
