@@ -3,5 +3,5 @@
 
 
 ### 翻译贡献者们
-- (Han Yuan Dong)[http://www.hanyuandong.com]
-- (Shen Lian Zhi)[http://www.shenlianzhi.com]
+- [Han Yuan Dong](http://www.hanyuandong.com)
+- [Shen Lian Zhi](http://www.shenlianzhi.com)
